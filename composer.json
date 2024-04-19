@@ -1,0 +1,17 @@
+{
+    "name": "chandanbhanopa/magento2-javascript-module",
+    "description": "Javascript Practice module",
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "license": [
+      "MIT"
+    ],
+    "autoload": {
+      "psr-4": {
+        "Chandan\\JavascriptPractice\\": ""
+      },
+      "files": [
+        "registration.php"
+      ]
+    }
+  }
